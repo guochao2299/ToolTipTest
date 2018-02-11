@@ -1,0 +1,9 @@
+E:\C#Programs\ToolTipTest\ToolTipTest\bin\Debug\ToolTipTest.exe
+E:\C#Programs\ToolTipTest\ToolTipTest\bin\Debug\ToolTipTest.pdb
+E:\C#Programs\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.csprojResolveAssemblyReference.cache
+E:\C#Programs\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.frmMain.resources
+E:\C#Programs\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.Properties.Resources.resources
+E:\C#Programs\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.ucDrawBoard.resources
+E:\C#Programs\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.csproj.GenerateResource.Cache
+E:\C#Programs\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.exe
+E:\C#Programs\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.pdb
